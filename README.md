@@ -4,4 +4,4 @@
 <img src = "https://github.com/DeepakGuleria768/WebSocketsInAndroid/blob/master/ImageAssets/image3.jpg?raw=true" width = "30%" height = "30%"/>
 <img src = "https://github.com/DeepakGuleria768/WebSocketsInAndroid/blob/master/ImageAssets/image5.jpg?raw=true" width = "30%" height = "30%"/>
 
-https://github.com/DeepakGuleria768/WebSocketsInAndroid/blob/master/ImageAssets/image5.jpg?raw=true
+
