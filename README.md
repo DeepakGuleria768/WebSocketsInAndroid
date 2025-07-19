@@ -1,2 +1,2 @@
 <H1>WSChat</H1>
-<img src = "https://github.com/DeepakGuleria768/WebSocketsInAndroid/blob/master/ImageAssets/imageOne.jpg?raw=true" width = "70%"/>
+<img src = "https://github.com/DeepakGuleria768/WebSocketsInAndroid/blob/master/ImageAssets/imageOne.jpg?raw=true" width = "40%"/>
